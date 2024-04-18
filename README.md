@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HarshitMadan77
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Projects on the Front End
+- 👋 Hi, I’m Harshit Madan
+- 👀 I’m interested in Programming, Problem Solving
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on Full Stack Development Projects
 - 📫 How to reach me - Mail me at Harshitmadan77@gmail.com
 
 <!---
